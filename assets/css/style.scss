@@ -1,0 +1,51 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+:root {
+  --portfolio-ink: #24212a;
+  --portfolio-muted: #625b69;
+  --portfolio-accent: #73536f;
+  --portfolio-line: #e8e1e8;
+}
+
+body {
+  color: var(--portfolio-ink);
+  line-height: 1.7;
+}
+
+h1, h2, h3 {
+  color: var(--portfolio-ink);
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  margin-top: 2.2rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--portfolio-line);
+}
+
+a {
+  color: var(--portfolio-accent);
+}
+
+a:hover, a:focus {
+  color: #4f3650;
+}
+
+table {
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 0.65rem 0.75rem;
+  border-bottom: 1px solid var(--portfolio-line);
+  vertical-align: top;
+}
+
+blockquote {
+  border-left-color: var(--portfolio-accent);
+}
