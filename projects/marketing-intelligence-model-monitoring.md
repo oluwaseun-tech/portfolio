@@ -107,7 +107,9 @@ The dashboard contains three pages:
 
 ## Project files
 
-The code notebooks, data outputs, and Power BI report will be linked here once the project repository and presentation assets have been published.
+- [GitHub project repository](https://github.com/oluwaseun-tech/marketing-intelligence-model-monitoring)
+- The repository currently includes the project documentation, dependency specification, selected result exports, and a downloadable cleaned notebook bundle.
+- The original CSV data set files and Power BI `.pbix` dashboard are not yet committed to the repository; they remain in the project ZIP shared for publication.
 
 ---
 
