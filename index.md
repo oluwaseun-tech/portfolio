@@ -29,7 +29,7 @@ Structured web research, web scraping, data collection, validation and analysis-
 
 ## Selected work
 
-- **[Marketing Intelligence & Model Monitoring System](/projects/marketing-intelligence-model-monitoring/)** — Python, pandas, PyMC and Power BI; synthetic-data marketing analytics, illustrative MMM, Bayesian regression, and model/data-quality monitoring. [Project documentation](https://github.com/oluwaseun-tech/portfolio/blob/main/projects/marketing-intelligence-model-monitoring.md).
+- **[Marketing Intelligence & Model Monitoring System](/projects/marketing-intelligence-model-monitoring/)** — Python, pandas, PyMC and Power BI; synthetic-data marketing analytics, illustrative MMM, Bayesian regression, and model/data-quality monitoring. [Project case study](https://github.com/oluwaseun-tech/portfolio/blob/main/projects/marketing-intelligence-model-monitoring.md) · [Project repository](https://github.com/oluwaseun-tech/marketing-intelligence-model-monitoring).
 - **[AI Support Ticket Triage](https://github.com/oluwaseun-tech/Ai-ticket-triage-automation)** — n8n, Google Gemini, structured ticket analysis, workflow documentation and human review.
 - **[AI Data Audit — DHS Nigeria](https://github.com/oluwaseun-tech/ai-data-audit-dhs-nigeria)** — data quality review and structured survey-data analysis.
 - **[Flood Dashboard](https://github.com/oluwaseun-tech/Flood-Dashboard)** — dashboard-based data exploration and visualisation.
