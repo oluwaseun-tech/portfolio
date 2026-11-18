@@ -19,7 +19,7 @@ I work at the intersection of business processes, data and automation. I transla
 
 | Project | What it demonstrates |
 |---|---|
-| [Marketing Intelligence & Model Monitoring System](https://oluwaseun-tech.github.io/portfolio/projects/marketing-intelligence-model-monitoring/) | Python, pandas, PyMC, illustrative MMM, data-quality and model monitoring, Power BI; synthetic-data portfolio case study |
+| [Marketing Intelligence & Model Monitoring System — case study](https://oluwaseun-tech.github.io/portfolio/projects/marketing-intelligence-model-monitoring/) · [Source repository](https://github.com/oluwaseun-tech/marketing-intelligence-model-monitoring) | Python, pandas, PyMC, illustrative MMM, data-quality and model monitoring, Power BI; synthetic-data portfolio case study |
 | [AI Support Ticket Triage](https://github.com/oluwaseun-tech/Ai-ticket-triage-automation) | n8n, Google Gemini, structured ticket analysis, workflow documentation and human review |
 | [AI Data Audit — DHS Nigeria](https://github.com/oluwaseun-tech/ai-data-audit-dhs-nigeria) | Data quality review and structured analysis of survey data |
 | [Flood Dashboard](https://github.com/oluwaseun-tech/Flood-Dashboard) | Data visualisation and dashboard-based exploration |
